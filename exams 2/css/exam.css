@@ -1,0 +1,143 @@
+.section-one
+{
+    background-image: url(../image);
+    background-color: #09c;
+    width: 100%;
+    height: 100%;
+    
+    
+}
+.form-group
+{
+    position: absolute;
+    bottom: 50%;
+    left: 34%;
+    
+}
+.section-two
+{
+    border-top: solid 20px #f9f9f9;
+    border-bottom: solid 20px #f9f9f9;
+    width: 100%;
+    height: 1000px;
+    position: relative;
+}
+.layout
+{
+    background-color: #99f;
+    width: 100%;
+    height: 100%;
+    animation-name: hambozo;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-play-state: paused;
+    
+    
+    
+    
+}
+@keyframes hambozo
+{
+    
+    0%{background-color: #99f;}
+    5%{background-color: rgb(158, 24, 24);}
+    10%{background-color: #888;}
+    15%{background-color: rgb(243, 8, 223);}
+    20%{background-color: rgb(136, 136, 136);}
+    30%{background-color: rgb(146, 60, 21);}
+    35%{background-color: rgb(248, 231, 231);}
+    40%{background-color: rgb(68, 63, 63);}
+    50%{background-color: rgb(247, 96, 96);}
+    60%{background-color: rgb(44, 18, 18);}
+    70%{background-color: rgb(87, 153, 0);}
+    80%{background-color: #09cf;}
+    90%{background-color: rgb(68, 119, 117);}
+    95%{background-color: rgb(153, 255, 250);}
+    100%{background-color: rgb(21, 78, 233);}
+    
+
+}
+#hustlin
+{
+    font-size: 150px;
+    position: absolute;
+    top: 50%;
+    left: 28%;
+}
+.section-three
+{
+    background-color: #555;
+    border-bottom: solid 20px #f9f9f9;
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+.hambozo2
+{
+    position: absolute;
+    top: 50%;
+    left: 11%;
+}
+.hambozo {
+    border: solid 1px #09cf;
+    display: inline-block;
+    line-height: 1;
+    padding: 20px;
+    font-size: 40px;
+    
+  }
+  
+  span {
+    display: block;
+    font-size: 20px;
+    color: white;
+  }
+  
+  #days {
+    font-size: 50px;
+    color: #09c;
+  }
+  #hours {
+    font-size: 50px;
+    color: #f02222;
+  }
+  #minutes {
+    font-size: 50px;
+    color: #74f68a;
+  }
+  #seconds {
+    font-size: 50px;
+    color: #cd58b0;
+  }
+.section-four
+{
+    widows: 100%;
+    height: 800px;
+}   
+.ozil
+{
+    display: inline-block;
+    font-size: 400px;
+    transform: skew(10deg,20deg);
+    
+}
+#rgbOne
+  {
+    color: #22f033;
+  }
+ #rgbTwo
+  {
+      color: #09c;
+  }
+ #rgbThree
+  {
+      color: #f02222;
+  }
+
+.section-five{
+ width: 100%;
+ height: 800px;
+}
+   
+  
